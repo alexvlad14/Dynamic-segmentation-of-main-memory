@@ -11,6 +11,7 @@ This project implements dynamic segmentation of main memory with several allocat
 5. Worst Fit
 6. First Fit
 7. Next Fit
+
 These algorithms are used to efficiently allocate and manage memory segments in a dynamic environment.
 
 #  Supported Algorithms
